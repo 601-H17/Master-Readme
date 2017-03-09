@@ -1,20 +1,15 @@
-# GeoApp Global
+# GeoApp Global Information
 
 ## Project Report
 
 | Build Status | Repository | Description |
 | --- | --- | --- |
-|[![Build Status][travis-image-geo]][travis-url-geo]| [GeoApp] | List all new or modified files |
-|[![Build Status][travis-image-api]][travis-url-api]| [GeoApi] | Show file differences that haven't been staged |
-|[![Build Status][travis-image-path]][travis-url-path]| git diff | Show file differences that haven't been staged |
+|[![Build Status][travis-image-geo]][travis-url-geo]| [GeoApp] | Android Application |
+|[![Build Status][travis-image-api]][travis-url-api]| [GeoApi] | Web Application |
+|[![Build Status][travis-image-path]][travis-url-path]| [Pathfinder-Api] | Pathfinder |
 
+## 
 
-
-* GeoApp
-* Geo-Api
-* Pathfinder-api
-
-##
 
 
 [travis-image-geo]: https://travis-ci.org/601-H17/GeoApp.svg?branch=master
@@ -27,4 +22,4 @@
 
 [travis-image-path]: https://travis-ci.org/601-H17/pathfinder-api.svg?branch=master
 [travis-url-path]: https://travis-ci.org/601-H17/pathfinder-api
-[Pathfinder-Api]:
+[Pathfinder-Api]: https://github.com/601-H17/pathfinder-api
