@@ -19,7 +19,7 @@
 1. How to mapping with OpenStreetMap and geojson : [Download File][Geojson-Tuto]
 
 ## GeoApp Presentation
-> En cours ... 
+1. Presentation of our project : [Download File][GeoApp-Presentation]
 
 ## Project Schema
 <p align="center">
@@ -43,5 +43,4 @@
 [JOSM-MAC]: https://josm.openstreetmap.de/download/macosx/josm-macosx.zip
 [JOSM-URL]: https://josm.openstreetmap.de/
 
-[GeoApp-Presentation]: link_here
-[GeoApp-Schema]: link_here
+[GeoApp-Presentation]: https://github.com/601-H17/Master-Readme/raw/master/GeoApp.pdf
