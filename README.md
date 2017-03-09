@@ -19,10 +19,12 @@
 1. How to mapping with OpenStreetMap and geojson : [Download File][Geojson-Tuto]
 
 ## GeoApp Presentation
-
+> En cours ... 
 
 ## Project Schema
-
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/5929986/23755989/4137e3e2-04b0-11e7-8638-233fb6579de0.png" />
+</p>
 
 [travis-image-geo]: https://travis-ci.org/601-H17/GeoApp.svg?branch=master
 [travis-url-geo]: https://travis-ci.org/601-H17/GeoApp
