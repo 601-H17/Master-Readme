@@ -12,11 +12,16 @@
 * [Windows installer][JOSM-Windows]
 * [Mac OS X package][JOSM-MAC]
 
-> See for more information : [here][JOSM-URL]
+> For more information check out [Getting Started][JOSM-URL].
 
 
 ## Mapping/geojson Tutorial
 1. How to mapping with OpenStreetMap and geojson : [Download File][Geojson-Tuto]
+
+## GeoApp Presentation
+
+
+## Project Schema
 
 
 [travis-image-geo]: https://travis-ci.org/601-H17/GeoApp.svg?branch=master
@@ -35,3 +40,6 @@
 [JOSM-Windows]: https://josm.openstreetmap.de/download/windows/josm-setup.exe
 [JOSM-MAC]: https://josm.openstreetmap.de/download/macosx/josm-macosx.zip
 [JOSM-URL]: https://josm.openstreetmap.de/
+
+[GeoApp-Presentation]: link_here
+[GeoApp-Schema]: link_here
